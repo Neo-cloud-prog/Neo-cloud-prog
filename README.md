@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">What's up ...(*￣０￣)ノ</h1>
 
-<!--
-**Neo-cloud-prog/Neo-cloud-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fun fact **I think I am lil bit sad cuz I hate winter**
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  
+  <!-- .NET Framework -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET Framework" width="40" height="40"/>
+    
+  <!-- SQL Server -->
+  <img src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png" alt="SQL Server" width="40" height="40"/>
+</p>
+
