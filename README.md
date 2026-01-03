@@ -1,4 +1,4 @@
-<h1 align="center">What's up..(*￣０￣)ノ</h1>
+<h1 align="center">What's up(*￣０￣)ノ</h1>
 
 Fun fact **I think I am lil bit sad cuz I hate winter**
 
